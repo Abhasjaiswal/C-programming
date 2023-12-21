@@ -12,7 +12,7 @@ void decimalToBinary(int n) {
         // Print the remainder (0 or 1) at each step
         printf("%d", n % 2);
     }
-}
+} 
 
 int main() {
     int decimalNumber = 25;
